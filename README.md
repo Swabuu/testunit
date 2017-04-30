@@ -1,3 +1,3 @@
-# testunit
+# SMS Test Unit
 
-A simple android app to parse incoming SMS messages and send the Sender, Destination, Body and SMSC-address to an external webservice.
+A simple Android application which parses incoming SMS messages and sends the Sender ID, MSISDN (destination), SMS Body and SMSC-address to an external webservice defined in the code.
